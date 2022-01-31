@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 const Container = styled.div`
     display: flex;
+    margin: 50px;
     flex-direction: column;
     -webkit-box-shadow: 3px 3px 26px -3px rgba(0, 0, 0, 0.35);
     box-shadow: 3px 3px 26px -3px rgba(0, 0, 0, 0.35);

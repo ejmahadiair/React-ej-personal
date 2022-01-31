@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 const Container = styled.div`
-    height: 100vh;
+    height: 100%;
     overflow: hidden;
     position: relative;
     scroll-behavior: smooth;
